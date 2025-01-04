@@ -1,7 +1,7 @@
 ### NAME:Vishvanandh N
 ### REG NO:24005857
 
-# CONTROL RELAY USING IOT CONTROLLER
+# Experiment:2 -CONTROL RELAY USING IOT CONTROLLER
 ##  AIM:
 To control the Relay using Arduino controller
 
